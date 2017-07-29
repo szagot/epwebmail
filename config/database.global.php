@@ -9,7 +9,7 @@ return [
     'driverOptions' => [
         1002 => "SET NAMES 'UTF8'",
     ],
-    'dbname'        => 'empty',
+    'dbname'        => 'webmail',
     'host'          => 'localhost',
     'user'          => 'user',
     'password'      => 'pass',
